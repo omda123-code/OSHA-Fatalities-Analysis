@@ -55,7 +55,7 @@ osha-fatalities-analysis/
 - 📌 Peak in **2017 (~1550 fatalities)**.  
 - 📌 Lowest in **2013 (~1180 fatalities)**.  
 - Trend shows **rise until 2017 then gradual decline**.  
-![Top 5 Years](plots/02_top5_years.png)
+![Top 5 Years](plots/24_top5_years.png)
 
 ---
 
