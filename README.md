@@ -91,7 +91,7 @@ osha-fatalities-analysis/
 ### 6. Day of Week Ranking
 - **Tuesday & Wednesday** = riskiest days (~2700 each).  
 - **Sunday** = safest (~700).  
-![Days](plots/21_weekday_vs_weekend.png)
+![Days](plots/19_day_of_week_sorted.png)
 
 ---
 
