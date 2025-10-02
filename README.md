@@ -171,9 +171,35 @@ osha-fatalities-analysis/
 
 ---
 
-## 📈 Power BI Dashboard
-An interactive **Power BI dashboard** is being developed to provide dynamic exploration of fatalities data.  
-📌 Will include filters by **state, cause, and time period**.  
+## 📊 Power BI Dashboard Overview
+
+### The Power BI dashboard provides an interactive, visual analysis of OSHA workplace fatalities from 2009–2022. It is organized into 8 main pages, each with KPIs, charts, and filters:
+
+- Overview — Key Metrics & Trend
+***Quick insights: Total incidents, peak year, average per year, and % unknown citations. Includes yearly trends and top 10 states.***
+- Time Trends — Monthly & Rolling
+***Tracks monthly trends, rolling 12-month counts, and year-over-year growth. Highlights seasonal patterns and spikes over time.***
+- Temporal Patterns — Day of Week
+***Shows incident distribution across the week, identifies top days, and compares weekday vs weekend incidents.***
+- Causes & Text Insights
+***Explores top causes (falls, struck, electrocution, etc.) and text-based patterns in incident descriptions using bar charts and tree maps.***
+- State Analysis — Map & Details
+***Interactive state-level view: incidents, fatalities, and % unknown citations. Focus on top-performing/at-risk states.***
+- City Analysis — Hotspots & Clusters
+***City-level analysis with top incidents, hotspots, and severity, highlighting high-risk urban areas.***
+- Focus — Scaffold, Ladder & Heat
+***Tracks specific hazard categories over time and by location to identify critical safety concerns.***
+- Data Quality — Unknowns & Completeness
+***Evaluates data completeness, unknown plans, and citations, helping ensure data-driven reliability.***
+
+### Dashboard Features:
+
+- KPI Cards for quick metrics
+- Charts: line, bar, donut, scatter, tree maps
+- Slicers/Filters: Year, State, Month, Day, Quarter
+- Tooltips with detailed values and percentages
+
+**Interactive design for exploring trends, causes, and locations**
 
 ---
 
